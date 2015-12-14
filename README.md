@@ -1,35 +1,20 @@
-# README #
+# MIS COMANDOS GIT #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Este es un documento para llevar documentado los commandos git que voy aprendiendo a lo largo de los proyectos.
 
-para templates de consulta bolivia
 
-### What is this repository for? ###
+### Que vamos a encontrar en este repositorio ? ###
 
-* Quick summary
+* Breve resumen
 * Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* [Leer mas](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
+### Contribuciones a esta guia ###
 
 * Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
-
+* Revision de código de otros repositorios
+* Otras guias
 
 
 ### Add y commit ### 
