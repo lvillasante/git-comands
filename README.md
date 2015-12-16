@@ -57,5 +57,7 @@ git checkout --track se featuring/seleccion origin/featuring/seleccion
 $Cambiando de rama
 git checkout master
 
+$Otra secuencia de git
+git
 
 
