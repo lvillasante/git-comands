@@ -43,6 +43,16 @@ git stash pop
 
 ### Comados GIT para Ramas ###
 
+$Crear una nueva rama
+> git branch <nombre de la nueva rama>
+> git checkout -t origin/feature/otra
+Realizar cambios
+
+>
+> git add .
+> git commit -m "mesnaje"
+> gui push origin feature/otra
+
 $Ver ramas locales
 git branch
 
