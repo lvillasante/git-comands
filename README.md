@@ -60,7 +60,17 @@ git checkout --track se featuring/seleccion origin/featuring/seleccion
 $Cambiando de rama
 git checkout master
 
-$Otra secuencia de git
-git
+### TAG ###
 
+$Verificando Tags
+git tag
+
+$Añadiendo un nuevo TAG
+git tag -a V1.0 -m "la primera version 1.0"
+
+$Veindo un TAG en especifico
+git show 1.0
+
+$Publicando el tag en el repo remoto
+git push origin v1.0
 
