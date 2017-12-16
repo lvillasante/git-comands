@@ -45,13 +45,14 @@ git stash pop
 
 $Crear una nueva rama
 > git branch <nombre de la nueva rama>
-> git checkout -t origin/feature/otra
-Realizar cambios
 
+Realizar cambios
 >
 > git add .
-> git commit -m "mesnaje"
-> gui push origin feature/otra
+
+> git commit -m "mensaje"
+
+> git push origin feature/otra
 
 $Ver ramas locales
 git branch
