@@ -7,10 +7,12 @@ Este es un documento para llevar documentado los commandos git que voy aprendien
 
 * Breve resumen
 * Version
+* [Leer mas](https://bitbucket.org/tutorials/markdowndemo)
+
 
 ### Contribuciones a esta guia ###
 
-* Proyectos
+* Writing tests
 * Revision de código de otros repositorios
 * Otras guias
 
@@ -21,16 +23,11 @@ Registrando cambios de directorio de trabajo al Storage (index) => add
 Incluir los cambios en el HEAD local => commit
 Enviar los cambios al repositorio remoto => push
 
->
-> git add .
-> git add <nombre de archivo>
-
-Omitiendo add
->
-> git commit -am "comentario"
-
-> git push origin master
-> git push origin <nombre del branch>
+git add .
+git add <nombre de archivo>
+git commit -am "comentario"
+git push origin master
+git push origin <nombre del branch>
 
 
 ### Actualizar repositorio ##
