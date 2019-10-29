@@ -34,33 +34,34 @@ Omitiendo add
 
 
 ### Actualizar repositorio ##
-git pull
+>git pull
 
 $cuando tienes cambios locales y necesitas actualizr el repo con archivos remotos
-git stash
-git pull
-git stash pop
+>git stash
+>git pull
+>git stash pop
 
 ### Comados GIT para Ramas ###
 
 $Ver ramas locales
-git branch
+>git branch
 
 $Ver ramas remotas
-git branch -a
+>git branch -a
 
 $Obtener Ramas remotas
-git pull
-git remote show origin
-git checkout --track origin/serverfix
-git checkout -t origin/serverfix
+>git pull
+>git remote show origin
+>git checkout --track origin/serverfix
+>git checkout -t origin/serverfix
+
 $Otro ejemplo
-git checkout --track se featuring/seleccion origin/featuring/seleccion
+>git checkout --track se featuring/seleccion origin/featuring/seleccion
 
 $Cambiando de rama
-git checkout master
+>git checkout master
 
 $Otra secuencia de git
-git
+
 
 
