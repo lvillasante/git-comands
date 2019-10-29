@@ -61,7 +61,11 @@ $Otro ejemplo
 $Cambiando de rama
 >git checkout master
 
-$Otra secuencia de git
+$Conflictos de images (o archivos sueltos)
+
+>git checkout --theirs path/to/conflicted-file.txt
+>git checkout --ours path/to/conflicted-file.txt 
+
 
 
 
