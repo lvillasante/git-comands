@@ -39,7 +39,9 @@ Omitiendo add
 
 $cuando tienes cambios locales y necesitas actualizr el repo con archivos remotos
 >git stash
+
 >git pull
+
 >git stash pop
 
 ### Comados GIT para Ramas ###
@@ -52,8 +54,11 @@ $Ver ramas remotas
 
 $Obtener Ramas remotas
 >git pull
+
 >git remote show origin
+
 >git checkout --track origin/serverfix
+
 >git checkout -t origin/serverfix
 
 $Otro ejemplo
@@ -65,6 +70,7 @@ $Cambiando de rama
 $Conflictos de images (o archivos sueltos)
 
 >git checkout --theirs path/to/conflicted-file.txt
+
 >git checkout --ours path/to/conflicted-file.txt 
 
 
