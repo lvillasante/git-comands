@@ -30,6 +30,7 @@ Omitiendo add
 > git commit -am "comentario"
 
 > git push origin master
+
 > git push origin <nombre del branch>
 
 
